@@ -1,6 +1,5 @@
 # Credit Card Approval
 # Table of Content
-- [Demo](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#demo)
 - [Problem Statement](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#problem-statement)
 - [Attribute](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#attribute)
 - [Data Description](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#data-description)
@@ -12,10 +11,8 @@
 - [Data Insertion in Database](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#data-insertion-in-database-1)
 - [Prediction](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#prediction)
 - [Deployment](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#deployment)
-- [Team member](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#team-member)
-- [Credit](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#credit)
 - [Dataset](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#dataset)
-- [Mentors](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#mentors)
+
 
 
 # Demo
@@ -140,20 +137,10 @@ Then go to the console of your account.
 - And then it will give you the link for your app, and the deployed app looks like:
 - To save money, go to settings and disable your app.
   
-# Team member
-- Gokul Pisharody(myself)
-- Sanjay Kumar
-- Devi  Arumugam
-  
-# credit
-  http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html
 
 # Dataset
   https://archive.ics.uci.edu/ml/datasets/Credit+Approval
   
-# Mentors
-- virat sir
-- Mohit sir
 
 
 
