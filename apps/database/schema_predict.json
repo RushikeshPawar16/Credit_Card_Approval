@@ -1,0 +1,19 @@
+{	"NumberofColumns" : 15,
+	"ColName": {
+      "Gender" : "VARCHAR",
+      "Age" : "FLOAT",
+      "Debt" : "FLOAT",
+      "Married" : "VARCHAR",
+      "BankCustomer" : "VARCHAR",
+      "EducationLevel" : "VARCHAR",
+      "Ethnicity" : "VARCHAR",
+      "YearsEmployed" : "INTEGER",
+      "PriorDefault" : "VARCHAR",
+      "Employed" : "VARCHAR",
+      "CreditScore" : "INTEGER",
+      "DriversLicense" : "VARCHAR",
+      "Citizen" : "VARCHAR",
+      "ZipCode" : "VARCHAR",
+      "Income" : "INTEGER"
+    }
+}

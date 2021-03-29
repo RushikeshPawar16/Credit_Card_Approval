@@ -1,0 +1,19 @@
+,columns,missing values count
+0,Gender,24
+1,Age,24
+2,Debt,0
+3,EducationLevel,18
+4,Ethnicity,18
+5,YearsEmployed,0
+6,PriorDefault,0
+7,Employed,0
+8,CreditScore,0
+9,DriversLicense,0
+10,Income,0
+11,Approved,0
+12,Married_u,0
+13,Married_y,0
+14,BankCustomer_gg,0
+15,BankCustomer_p,0
+16,Citizen_p,0
+17,Citizen_s,0
