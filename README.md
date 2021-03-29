@@ -14,10 +14,6 @@
 - [Dataset](https://github.com/GokulDev4U/Credit_Approval/blob/master/README.md#dataset)
 
 
-
-# Demo
-  https://credit-approved.herokuapp.com/
-  
 # Problem Statement
 To build a classification methodology to predict the Credit Approved or not based on the given training data. 
 # Attribute 
